@@ -1,0 +1,17 @@
+.todoContainer {
+    .inputbox {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        .searchBar{
+            height:25px;
+            width: 250px;
+        }
+        .inputButton{
+            display: flex;
+            align-items: center;
+            height: 30px;
+            border-radius: 5%;
+        }
+    }
+}
